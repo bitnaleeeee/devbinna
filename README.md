@@ -1,3 +1,1 @@
-# devbinna
-
-toy project
+# toy project
